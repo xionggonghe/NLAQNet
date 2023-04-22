@@ -4,9 +4,8 @@
 
 ## Abstract
 
-```
-Image rain removal is a highly ill-posed and complex computer vision task. Removing the influence of adverse weather conditions can enhance the quality of subsequent vision tasks. Existing methods mainly used convolutional neural networks to restore image backgrounds contaminated by rain streaks. However, widely used real-valued convolutional neural networks process color images as three independent channels, failing to fully leverage color information. Additionally, sliding-window-based neural networks cannot effectively model the non-local characteristics of an image
-```
+> Image rain removal is a highly ill-posed and complex computer vision task. Removing the influence of adverse weather conditions can enhance the quality of subsequent vision tasks. Existing methods mainly used convolutional neural networks to restore image backgrounds contaminated by rain streaks. However, widely used real-valued convolutional neural networks process color images as three independent channels, failing to fully leverage color information. Additionally, sliding-window-based neural networks cannot effectively model the non-local characteristics of an image
+
 
 ![NLAQ5](C:\Users\Xiong\OneDrive\Documents\研究生资料\论文书写\实验图表\PNG\NLAQ5.png)
 
