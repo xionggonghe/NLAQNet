@@ -22,7 +22,7 @@ install torchvision 0.12.0
 install tensorboardX 1.2
 ```
 
-Download the dataset from (Link：https://pan.baidu.com/s/1HomXxQISUJcER8bwsGrdgAPassword： kex6)  put the dataset folder into the "NLAQNet/data" folder
+Download the dataset from (Link：https://pan.baidu.com/s/1HomXxQISUJcER8bwsGrdgA ,Password： kex6)  put the dataset folder into the "NLAQNet/data" folder
 
 ## Training
 
@@ -35,7 +35,7 @@ Download the dataset from (Link：https://pan.baidu.com/s/1HomXxQISUJcER8bwsGrdg
 ```
 python test.py --read_weights ./pretrain_model/model_best_Mixed.pth --test_dataset Rain100H --cropPatch False
 
-Test results can be obtained from this  (Link：https://pan.baidu.com/s/1HomXxQISUJcER8bwsGrdgAPassword： kex6)
+Test results can be obtained from this  (Link：https://pan.baidu.com/s/1HomXxQISUJcER8bwsGrdgA ,Password： kex6)
 
 We will upload the trained model after the paper is accepted.
 ```
